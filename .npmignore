@@ -1,4 +1,5 @@
 /*
+!dist/
 !build/
 !node/app/
 node/app/.npm/
